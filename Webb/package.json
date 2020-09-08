@@ -1,0 +1,16 @@
+{
+  "name": "Webb",
+  "version": "1.0.0",
+  "description": "Hola mi amigo\r hej",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
